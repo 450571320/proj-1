@@ -11,7 +11,7 @@ description: |
 owner: LD Wang
 first_published: 2018
 email: 450571320@qq.com
-baseurl: "proj-1"
+baseurl: "/proj-1"
 url: "https://450571320.github.io"
 social:
   #twitter: https://twitter.com/<username>
