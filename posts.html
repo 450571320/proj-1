@@ -1,0 +1,12 @@
+---
+layout: page
+title: Posts
+description: Things may interest you.
+---
+
+{% for post in site.posts %}
+    <p>
+      {{ post.date }}
+      <br><a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+{% endfor %}
